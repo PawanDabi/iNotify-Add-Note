@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #d5f4e6;
+}
+.formmodal{
+  background-color: #d5f4e6;
+}
+.navbar-brand{
+  font-size: 30px;
+}
+.nav-link{
+  font-size: 19px;
+}
+.notify{
+  text-align: center;
+}
+#submit:hover{
+  background-color: green;
+}
+.edit:hover{
+background-color: green;
+}
+.delete:hover{
+  background-color: green;
+}
